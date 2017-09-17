@@ -10,7 +10,13 @@
         "name": "boss"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "d1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "moo"
   }
 }
