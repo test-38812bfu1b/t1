@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Sample",
+    "owner": "boss",
+    "description": "Blah"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "boss"
+      }
+    ],
+    "diagrams": [],
+    "reviewer": "moo"
+  }
+}
